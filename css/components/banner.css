@@ -1,0 +1,18 @@
+.banner{
+  background-image: url("/landing/images/background.png");
+  background-size: cover;
+  background-position: center;
+  padding: 200px;
+  color: white;
+}
+
+.banner-container{
+  width: 80%;
+  margin: 0 auto;
+}
+
+.banner-container p{
+  font-size:22px;
+  opacity:0.6;
+  padding-bottom: 20px;
+}
